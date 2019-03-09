@@ -1,0 +1,7 @@
+author = "hans0"
+description = "We are Finally Awake! fs0ciety."
+license = "MIT"
+licenselink = "https://github.com/eliasson/liquorice/blob/master/LICENSE"
+name = "liquorice"
+source_repo = "https://github.com/d0ntdeleteme/liquorice"
+min_version = 0.20
